@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T09:12:53.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="ruPl3u35AY-dHijyuh5F" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T09:13:42.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="yAhbApw4emnEt5x9joy9" version="12.5.8" type="github">
   <diagram id="8nRcPvjZ7b52w4uzdpam" name="Page-1">
     <mxGraphModel dx="1483" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
             <mxPoint x="302.7800000000001" y="1613" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h9Dcy1Lidz3h6DgRst-n-135" value="&lt;div&gt;SOREQ PC &lt;br&gt;&lt;/div&gt;&lt;div&gt;TWINCAT&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
+        <mxCell id="h9Dcy1Lidz3h6DgRst-n-135" value="&lt;div&gt;SNRC PC &lt;br&gt;&lt;/div&gt;&lt;div&gt;TWINCAT&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;" vertex="1" parent="1">
           <mxGeometry x="161.4" y="1548" width="128.17" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="h9Dcy1Lidz3h6DgRst-n-136" value="" style="endArrow=classic;html=1;strokeWidth=3;strokeColor=#33FF33;" edge="1" parent="1">
