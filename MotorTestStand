@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T08:10:31.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="sb1K7qayPYiHSKRI02dG" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T08:12:44.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="yyRgXEbqorQw71xS2udo" version="12.5.8" type="github">
   <diagram id="8nRcPvjZ7b52w4uzdpam" name="Page-1">
     <mxGraphModel dx="1483" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h9Dcy1Lidz3h6DgRst-n-51" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://www.beckhoff.com/images/embedded_pc/CX8190__web.jpg" vertex="1" parent="1">
-          <mxGeometry x="548" y="2080" width="100" height="111" as="geometry"/>
+          <mxGeometry x="560" y="2090" width="88" height="101" as="geometry"/>
         </mxCell>
         <mxCell id="h9Dcy1Lidz3h6DgRst-n-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.4928571428571388;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="782" y="2320" width="18" height="60" as="geometry"/>
@@ -279,7 +279,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h9Dcy1Lidz3h6DgRst-n-49" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://s1.qwant.com/thumbr/0x0/3/f/fbd2946a7ac449b4238fe2d05b7beed8730e732678a8837f11d60f1725188d/Startimage.jpg?u=https%3A%2F%2Finfosys.beckhoff.com%2Fcontent%2F1033%2Ftcinfosys3%2Fimages%2FStartimage.jpg&amp;q=0&amp;b=1&amp;p=0&amp;a=1" vertex="1" parent="1">
-          <mxGeometry x="636.69" y="2089" width="173.31" height="110" as="geometry"/>
+          <mxGeometry x="636.69" y="2090" width="163.31" height="109" as="geometry"/>
         </mxCell>
         <mxCell id="h9Dcy1Lidz3h6DgRst-n-70" value="Modbus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="475" y="2440" width="61.85" height="300" as="geometry"/>
